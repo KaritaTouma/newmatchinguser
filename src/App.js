@@ -85,7 +85,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Cさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -101,7 +101,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Dさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -117,7 +117,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Eさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -133,7 +133,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Fさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -149,7 +149,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Gさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -165,7 +165,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Hさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -181,7 +181,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Iさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -197,7 +197,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Jさん
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -213,7 +213,7 @@ export default function ActionAreaCard() {
             alt="ika" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Bさん
+              Kさん
             </Typography>
           </CardContent>
         </CardActionArea>
