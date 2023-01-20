@@ -5,6 +5,13 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 import "./App.css";
+import { createMuiTheme } from '@mui/material/styles';
+
+const theme = createMuiTheme({
+  spacing: 4,
+});
+
+theme.spacing(2) // = 4 * 2
 
 //後でURL追加？
 export default function ActionAreaCard() {
